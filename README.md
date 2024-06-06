@@ -57,7 +57,7 @@ Here are some ideas to get you started:
             </path>
         </svg></a>
 </div>
-<p dir="auto"><a href="https://github.com/bellapegoraro/"><img
+<p dir="auto"><a href="https://github.com/IsabelleDutrax/"><img
             src="https://camo.githubusercontent.com/a505c65c6ba52f9ddbfe3dc6bad7a79aee8ada99b0d6a29679ee448672e8e17e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f62656c6c617065676f7261726f2f"
             alt="Github Badge"
             data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/bellapegoraro/"
