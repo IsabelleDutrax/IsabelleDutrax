@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div class="markdown-heading" dir="auto">
     <h1 class="heading-element" dir="auto">Hi 👋</h1><a id="user-content-hi-" class="anchor"
         aria-label="Permalink: Hi 👋" href="#hi-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1"
@@ -23,8 +24,9 @@ Here are some ideas to get you started:
             </path>
         </svg></a>
 </div>
+-->
 <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element" dir="auto">I'm Isabella, but stay confortable to call me Bella</h2><a
+    <h2 class="heading-element" dir="auto">I'm Isabelle, but stay confortable to call me Isa</h2><a
         id="user-content-im-isabella-but-stay-confortable-to-call-me-bella" class="anchor"
         aria-label="Permalink: I'm Isabella, but stay confortable to call me Bella"
         href="#im-isabella-but-stay-confortable-to-call-me-bella"><svg class="octicon octicon-link" viewBox="0 0 16 16"
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
         <p dir="auto">🏡 I’m from Brazil.</p>
     </li>
     <li>
-        <p dir="auto">🔒 I’m currently working at MadeiraMadeira.</p>
+        <p dir="auto">🔒 I’m currently working in my own Websites</p>
     </li>
 </ul>
 <div class="markdown-heading" dir="auto">
