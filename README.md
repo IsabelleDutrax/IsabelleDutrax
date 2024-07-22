@@ -67,7 +67,7 @@ Here are some ideas to get you started:
             alt="Linkedin Badge"
             data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/isabella-pegoraro-marcondes/"
             style="max-width: 100%;"></a></p>
-<div class="markdown-heading" dir="auto">
+<!-- <div class="markdown-heading" dir="auto">
     <h2 class="heading-element" dir="auto">Languages and Tools</h2><a id="user-content-languages-and-tools"
         class="anchor" aria-label="Permalink: Languages and Tools" href="#languages-and-tools">/a>
 </div>
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
             alt="Top Langs"
             data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellapegoraro&amp;layout=compact"
             style="max-width: 100%;"></a></p>
-<p dir="auto">Thanks for visiting 👩‍💻</p>
+<p dir="auto">Thanks for visiting 👩‍💻</p> -->
