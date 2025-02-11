@@ -44,7 +44,7 @@ Here are some ideas to get you started:
         <p dir="auto">🏡 I’m from Brazil.</p>
     </li>
     <li>
-        <p dir="auto">🔒 I’m currently working in my own Websites</p>
+        <p dir="auto">🔒 I’m currently stundyng and working as freelancer in some projects</p>
     </li>
 </ul>
 <div class="markdown-heading" dir="auto">
