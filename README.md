@@ -57,11 +57,11 @@ Here are some ideas to get you started:
             </path>
         </svg></a>
 </div>
-<p dir="auto"><a href="https://github.com/IsabelleDutrax/"><img
+<!-- <p dir="auto"><a href="https://github.com/IsabelleDutrax/"><img
             src="https://camo.githubusercontent.com/a505c65c6ba52f9ddbfe3dc6bad7a79aee8ada99b0d6a29679ee448672e8e17e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f62656c6c617065676f7261726f2f"
             alt="Github Badge"
             data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/bellapegoraro/"
-            style="max-width: 100%;"></a></p>
+            style="max-width: 100%;"></a></p> -->
 <!-- <p dir="auto"><a href="[https://www.linkedin.com/in/isabelle-alves-dutra-9514a3202/](https://www.linkedin.com/in/isabelle-alves-dutra-9514a3202/)" rel="nofollow"><img
             src="https://camo.githubusercontent.com/591cde776b8e078058e691e72bcc559fe952d22039987ceec9cdab0beac83d6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f69736162656c6c612d7065676f7261726f2d6d6172636f6e6465732f"
             alt="Linkedin Badge"
