@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 </div>
 <ul dir="auto">
     <li>
-        <p dir="auto">💻 I'm Front End Developer!</p>
+        <p dir="auto">💻 I'm Frontend Developer!</p>
     </li>
     <li>
-        <p dir="auto">🏡 I’m from Brazil.</p>
+        <p dir="auto">🏡 I’m from São Paulo, Brazil.</p>
     </li>
     <li>
         <p dir="auto">🔒 I'm currently working and studying Systems Analysis and Development at Uninter.</p>
